@@ -9,7 +9,7 @@ export default function App() {
       <footer>
         <p>
           This project was coded by Yoon Me Me Pyo and is
-          <a href="">
+          <a href="https://github.com/YoonMe105/weather_made_with_react" rel="noreferrer" target="_blank">
             open-sourced.
           </a>
         </p>
